@@ -1,4 +1,13 @@
-<p align="justify">Hi! I'm Bhavya Joshi. I'm a Software Developer. Currently pursuing MSc. in Data Science and Statistical Learning and seeking an internship in the same domain. Served as an intern for five projects, participated in various National Level Competitions and published a few Research Papers. I'm a highly organized and detail-oriented individual, eager to secure a challenging position that utilizes my previous experience, while allowing me the opportunity to grow professionally. </p>
+<p align="justify">Hi, I’m Bhavya Joshi
+
+🔹 I’m a Data Engineer with 2+ years of industry experience, currently working at a Big Four consultancy firm.<br>
+🔹 I hold an MSc. in Data Science and Statistical Learning from the University of Limerick, Ireland.<br>
+🔹 I specialize in building scalable data pipelines, data modeling, ETL workflows, and cloud data solutions.<br>
+🔹 Proficient in Python, SQL, Spark, and Cloudera Data Platform with hands-on experience in real-world data infrastructure projects.<br>
+🔹 Passionate about transforming raw data into valuable insights and optimizing data systems for performance and reliability.<br>
+🔹 Always curious and learning—currently diving deeper into data architecture, machine learning pipelines, and data governance.<br>
+<br>
+💬 Let’s connect or collaborate on exciting data-driven projects!</p>
 
 Email: joshibhavya2000@gmail.com
 <!---
