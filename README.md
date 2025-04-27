@@ -5,7 +5,7 @@
 🔹 I specialize in building scalable data pipelines, data modeling, ETL workflows, and cloud data solutions.<br>
 🔹 Proficient in Python, SQL, Spark, and Cloudera Data Platform with hands-on experience in real-world data infrastructure projects.<br>
 🔹 Passionate about transforming raw data into valuable insights and optimizing data systems for performance and reliability.<br>
-🔹 Always curious and learning—currently diving deeper into data architecture, machine learning pipelines, and data governance.<br>
+🔹 Always curious and learning - currently diving deeper into data architecture, machine learning pipelines, and data governance.<br>
 <br>
 💬 Let’s connect or collaborate on exciting data-driven projects!</p>
 
